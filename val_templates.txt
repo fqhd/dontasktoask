@@ -1,0 +1,21 @@
+<verb> <subject> please help me out with this <technology> bug
+i am going to go crazy <subject> please help me
+is there <subject> available at the moment
+is there <subject> good at <technology> available right now
+<verb> <subject> help me out with my issue
+is it alright if <subject> <verb> answer my question
+im looking for help with <technology>
+i have a question about <technology>
+i have got a question about <technology>
+<verb> ask a question about <technology> here
+is this the right place to ask a question about <technology>
+<subject> please help i am having an issue with <technology>
+are there any <technology> specialists around
+im looking for a <technology> professional dev
+im looking for a <technology> professional developer
+are there any <technology> connoisseurs around here
+is there anyone here who has mastered <technology>
+I have an inquiry about <technology>
+is there <subject> here that could assist me with <technology>
+<verb> <subject> help me figure out what is wrong with my code
+<verb> <subject> figured out how to use tensorflow
