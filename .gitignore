@@ -3,4 +3,8 @@ val_messages.txt
 .DS_Store
 .ipynb_checkpoints/
 kt_trials/
+kt_models/
+*.ipynb
+messages.txt
+data.ds
 

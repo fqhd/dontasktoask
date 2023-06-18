@@ -75,6 +75,7 @@ asm
 assembly
 scratch
 sql
+postgresql
 mongodb
 next
 nextjs
@@ -82,7 +83,7 @@ database
 mysql
 aws
 crypto
-svelt
+svelte
 rabbitmq
 surrealdb
 blazor
@@ -99,4 +100,4 @@ bash
 webgl
 threejs
 graphql
-linu
+linux

@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 import keras_tuner as kt
-from datagen import DataGenerator
+from gen_training_data import DataGenerator
 import matplotlib.pyplot as plt
 import tensorflowjs as tfjs
 
@@ -40,16 +40,6 @@ history = model.fit(train_generator, validation_data=val_generator, epochs=20)
 
 h_dic = history.history
 
-export_model = keras.Sequential([
-    model,
-    keras.layers.Activation('sigmoid')
-])
-
-export_model.compile(
-    loss=keras.losses.BinaryCrossentropy(),
-    optimizer=keras.optimizers.Adam(learning_rate=1e-4)
-)
-
 plt.figure(figsize=(12, 3))
 
 plt.subplot(1, 2, 1)
@@ -63,5 +53,15 @@ plt.plot(h_dic['val_binary_accuracy'], label='Validation Accuracy')
 plt.legend()
 
 plt.show()
+
+export_model = keras.Sequential([
+    model,
+    keras.layers.Activation('sigmoid')
+])
+
+export_model.compile(
+    loss=keras.losses.BinaryCrossentropy(),
+    optimizer=keras.optimizers.Adam(learning_rate=1e-4)
+)
 
 tfjs.converters.save_keras_model(export_model, 'model/')

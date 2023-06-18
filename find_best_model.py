@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 import keras_tuner as kt
-from datagen import DataGenerator
+from gen_training_data import DataGenerator
 
 sequence_length = 50
 n_channels = 5
