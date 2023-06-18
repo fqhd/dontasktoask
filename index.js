@@ -43,7 +43,7 @@ const character_mappings = {
 function vectorize_message(msg) {
     const vec = []
     for(const c of msg){
-        if(vec.length == 500) {
+        if(vec.length == 250) {
             return vec;
         }
         const char_vector = character_mappings[c];
@@ -51,7 +51,7 @@ function vectorize_message(msg) {
             vec.push(...char_vector);
         }
     }
-    while(vec.length < 500) {
+    while(vec.length < 250) {
         vec.push(0, 0, 0, 0, 0);
     }
     return vec;
