@@ -57,11 +57,11 @@ function vectorize_message(msg) {
     return vec;
 }
 
-textBox.addEventListener('keydown', async (e) => {
+textBox.addEventListener('input', async (e) => {
     if(model == null) return;
     const data = [];
 
-    data.push(vectorize_message(textBox.value));
+    data.push(vectorize_message(e.target.value));
 
     const answer = (await model.predict(tf.tensor2d(data)).data())[0];
 
