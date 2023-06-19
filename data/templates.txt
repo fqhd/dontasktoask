@@ -11,25 +11,25 @@ does <subject> know <technology> i just want to ask them a few questions
 does <subject> know <technology> i just need a few pointers with this app im working on
 is there <subject> that knows <technology>
 <subject> understand <technology>
-are there any <technology> experts
+are there any <technology> <title>
 is there a <technology> export here
 does <subject> here use <technology>
-are there any <technology> users here
-is there a <technology> user
-is there a <technology> user here
-are there any <technology> users
-is <subject> a <technology> user
-im looking for a <technology> expert
-is <technology> expert here
+are there any <technology> <title> here
+is there a <technology> <title>
+is there a <technology> <title> here
+are there any <technology> <title>
+is <subject> a <technology> <title>
+im looking for a <technology> <title>
+is <technology> <title> here
 <subject> know <technology> pls
-any <technology> experts
+any <technology> <title>
 is <subject> good with <technology>
-are there any <technology> experts around plzzzzzzzzzz
-are there any <technology> experts around pleasseeeee i reeally need help
-is there a <technology> expert here
-is there a <technology> professional here
-any <technology> users around
-any <technology> users around to help me with my stupid bug i am very irritated
+are there any <technology> <title>s around plzzzzzzzzzz
+are there any <technology> <title>s around pleasseeeee i reeally need help
+is there a <technology> <title> here
+is there a <technology> <title> here
+any <technology> <title>s around
+any <technology> <title>s around to help me with my stupid bug i am very irritated
 <verb> <subject> help me with <technology> i tried a lot of different solutions but nothing works
 <verb> <subject> help me with <technology> i am very confused and dont know what else to try
 im having trouble with my code <verb> <subject> help me
@@ -46,13 +46,14 @@ i got a <technology> problem if <subject> <verb> help please
 <subject> good with <technology> around here
 <subject> descent with <technology> here
 <verb> <subject> help me with some simple <technology>
+<verb> <subject> assist me with some simple <technology>
 <verb> <subject> give me a quick hand with <technology>
 <verb> <subject> give me a hand with <technology> please
 im having trouble with <technology> <verb> <subject> help please
 <verb> <subject> answer my question about <technology>
 is <subject> here that <verb> help me
 is there <subject> here that knows about <technology>
-is there <subject> here that is an expert in <technology>
+is there <subject> here that is an <title> in <technology>
 whats up guys im struggling with <technology> <verb> <subject> help
 is there <subject> that <verb> help me with <technology>
 <verb> <subject> give me pointers to learn <technology>
@@ -92,19 +93,20 @@ does <subject> here use <technology> i have a problem with my code
 does <subject> here use <technology> im facing a huge problem that im struggling to solve
 im struggling to fix this issue with <technology> <verb> <subject> help
 <verb> <subject> help me fix my problem with <technology> im struggling very bad please
-pls <subject> help fix me <technology> problem please
-is <subject> here a <technology> developer
-pls is <subject> <technology> developer here
-i need a <technology> developer to help me with this task <subject>
+plss <subject> help fix me <technology> problem please
+is <subject> here a <technology> <title>
+plsssss... is <subject> <technology> <title> here ????
+i seriously need a <technology> <title> to help me with this task <subject>
+i really need a <technology> <title> to help me with this task.
 guys i need help with this assignment is it okay if i ask here
-if you are a <technology> developer <verb> you help me with my problem
-<verb> <technology> developer here please help me with my issue
+if you are a <technology> <title> <verb> you help me with my problem
+<verb> <technology> <title> here please help me with my issue
 did <subject> here use <technology> or <technology> before
 im looking for <subject> who has used <technology>
 is there <subject> here that knows how to use <technology>
 please guys <verb> i need <subject> to help me with <technology>
 plz people i need <subject> help please
-any <technology> experts around
+any <technology> <title>s around
 im not sure what to ask exactly but <verb> <subject> with <technology> experience help me out please
 i barely use this so <verb> <subject> help me please
 <verb> <subject> help me in
@@ -121,8 +123,8 @@ i have got a question about <technology>
 is this the right place to ask a question about <technology>
 <subject> please help i am having an issue with <technology>
 are there any <technology> specialists around
-im looking for a <technology> professional dev
-im looking for a <technology> professional developer
+im looking for a <technology> <title> dev
+im looking for a <technology> <title> <title>
 are there any <technology> connoisseurs around here
 is there anyone here who has mastered <technology>
 I have an inquiry about <technology>
@@ -131,41 +133,41 @@ is there <subject> here that <verb> assist me with <technology>
 <verb> <subject> figured out how to use <technology>
 im hoping everyone is doing fine but I am looking for a person that <verb> answer my question
 is <subject> available at the moment to answer a question that I have about something
-I am in the lookout for a <technology> developer
-Is by any chance <subject> here a <technology> developer that <verb> help me with this bug im facing
+I am in the lookout for a <technology> <title>
+Is by any chance <subject> here a <technology> <title> that <verb> help me with this bug im facing
 out of curiosity is <subject> in this server a <technology>
-does anyone know a <technology> coder that <verb> help me with my code
+does anyone know a <technology> <title> that <verb> help me with my code?
 i am facing an issue with <technology> and im looking for <subject> that <verb> help me out
-im facing an issue and im currently looking for a <technology> developer to help is <subject> here willing to do that
-is <subject> here willing to do something for me please
+im facing an issue and im currently looking for a <technology> <title> to help is <subject> here willing to do that
+is <subject> here willing to do something for me please.
 is there a chance that <subject> here is available to help me with <technology>
-what is the correct channel to ask a question
+what is the correct channel to ask a question ?
 <verb> <subject> here answer my question pleaseee
 please does <subject> know <technology> im facing a bug and i have no idea how to fix it
-i am clueless on how to fix this bug and im looking for a <technology> developer to help me out
-is there a <technology> expert here that <verb> help me fix this small bug in my program
-is it alright if i ask a question about <technology>
+i am clueless on how to fix this bug and im looking for a <technology> <title> to help me out
+is there a <technology> <title> here that <verb> help me fix this small bug in my program
+is it alright if i ask a question about.. <technology> ??
 please <verb> i ask a question about <technology>
 please <verb> <subject> tell me if this is the right channel to ask a question about <technology>
 is there a <subject> in this server that knows their way around <technology>
-i have no idea what im doing and i need help
-i am really clueless at the moment with my code and i am in serious need of help by a <technology> professional
-i am seeking advice from a <technology> expert
-i am seeking assistance from a <technology> expert is there anyone here that <verb> help me out please
+i have no idea what im doing... and i need help :(((
+i am really clueless at the moment with my code and i am in serious need of help by a <technology> <title>
+i am seeking advice from a <technology> <title>
+i am seeking assistance from a <technology> <title> is there anyone here that <verb> help me out please
 are there people here that are good with <technology>
 <verb> i just ask if anyone here is good with <technology> because im really struggling and need help
 <verb> i just ask if anyone here is good with <technology>
-by any chance is <subject> here a <technology> coder
-im looking for <subject> that really <verb> code well in <technology>
-<verb> <subject> please point me towards
-im just here to look for some <technology> developers is anyone here
-are there any <technology> programmers around
-does anyone know if there is a <technology> programmer in this server
-im having a hard time with my bug <verb> <subject> help please
-i am really struggling with my this bug that has been haunting me for days is there anyone here that I <verb> ask
+by any chance, is <subject> here a <technology> <title>
+i'm looking for <subject> that really <verb> code well in <technology>
+<verb> <subject> please point me towards ??
+i'm just here to look for some <technology> <title>s.. is anyone here ??
+are there any <technology> <title>s around?
+does anyone know if there is a <technology> <title> in this server?
+i'm having a hard time with my bug <verb> <subject> help please..
+i am really struggling with my this bug that has been haunting me for days, is there anyone here that I <verb> ask?
 is by any chance <subject> here that knows <technology>
 is <subject> here that knows <technology>
-please <verb> i ask a <technology> coder here a question
+please <verb> i ask a <technology> <title> here a question
 <verb> i get in touch with <subject> here
 <verb> i get in touch with <subject> to ask them a question
 <verb> i get in touch with <subject> to ask them a question about <technology>
@@ -173,8 +175,8 @@ i heard there are people here that know <technology> is that true
 is by any chance <subject> in this server that is active and <verb> answer my question i dont have a lot of time
 i am in a hurry guys and i need <subject> to answer my question
 <verb> <subject> please answer my question as soon as possible i am in a big hurry and dont want to bother you guys more than you need
-does <subject> here know a <technology> coder who <verb> aid in the answering of my question
-is <subject> here that <verb> aid me by answer my question
+does <subject> here know a <technology> <title> who <verb> aid in the answering of my question
+is <subject> here that <verb> aid me by answering my question
 <verb> <subject> in this programming server answer my questions
 please <verb> i ask a question here because i dont have time and my deadline is coming soon
 please <verb> <subject> answer my question quickly i dont have time im in a rush
@@ -183,11 +185,91 @@ by any chance is <subject> here that <verb> answer my question
 is there a <technology> export here in this server i just want to ask a question
 are there any <technology> devs in this server
 are there any <technology> devs in this server out of curiosity
-is there a <technology> developer in this server that <verb> answer my question
+is there a <technology> <title> in this server that <verb> answer my question
 is there <subject> in this server that <verb> answer my question about <technology>
 how do i seek help in this server and <verb> <subject> answer my question
 <verb> i ask a question in this server please im not sure what else to do
-<verb> i ask something and have it answered by a <technology> developer
-<verb> a <technology> developer please answer my question because i am stuck on this bug and im not sure what to do
-is there a chance that a <technology> developer answers my question because i am stuck
-i am stuck and am wondering if <subject> could please answer my question by any chance
+<verb> i ask something and have it answered by a <technology> <title>
+<verb> a <technology> <title> please answer my question because i am stuck on this bug and im not sure what to do
+is there a chance that a <technology> <title> answers my question because i am stuck
+i am stuck and am wondering if <subject> could please... answer my question by any chance ?
+i'm stuck and am wondering if <subject> could please answer my question ?
+i really am just so stuck and am wondering if <subject> could answer the question im about to ask.
+i am looking for a <technology> <title> ... does anyone want to volunteer ?
+is anyone here a volunteer to answer my question? ??
+how <verb> i ask a question please ?
+does anyone know how i <verb> ask a question guys
+i am curious about how i am supposed to ask a question in this server
+out of curiosity does <subject> know how to ask questions here
+can <subject> please guide me to ask a question
+is it okay if i ask a question here about <technology>
+is it okay if a <technology> <title> answers my question
+<verb> a <technology> pro
+by any chance <verb> <subject> please answer my question if its okay
+if it's okay guys i'm looking for a person that <verb> respond my question
+<verb> a <technology> <title> provide a solution to my issue
+<verb> a <technology> <title> reply to my question with an answer by any chance
+i hope it's okay if someone can reply to my question with an answer
+any <technology> <title> available at the moment please ??
+any <technology> <title> available at the moment please ?? i have big issue with bug
+<verb> <subject> aknowledge my question plzzzz
+is a <technology> <title> here that can get back to me with an answer
+plz <subject> with <technology> experience dm me
+plzzzzz i'm looking for <subject> with <technology> experience
+please i am really want a person with <technology> experience to dm me
+i am having problem with <technology>
+i'm struggling with <technology> can <subject> assist me
+is it okay if <subject> can assist me with bug with <technology>
+it's okay if <subject> plzz.. can assist me ??? i have problem with <technology>
+<verb> a <technology> <title> please come here and answer my question
+by any chance is a <verb> <title> here that can answer my question
+<verb> a <technology> <title> answer my querries please
+plzz people i need help guyss
+plzzzzz people i need help guyszzz seriously...
+plzz i am in need for help can <subject> answer my question
+is <subject> here that can answer my question about <technology>
+is <subject> available with free free time who can answer my question?
+is <subject> available with free free time who can answer my question pleasezeee?
+is <subject> else here a <technology> <title>
+is <subject> here good with <technology>
+is <subject> in this server good with <technology>
+is <subject> good with <technology> that can answer my question
+is <subject> good with <technology> that can help me please
+is <subject> descent with <technology> that can help me please
+is <subject> here a <title>
+is <subject> here a <technology> <title>
+is <subject> here who knows how to use <technology>
+is <subject> familiar with <technology> ? i need some help
+is <subject> here familiar with <technology>
+is <subject> familiar with <technology>
+is <subject> good at <technology> im bored and wanna play <technology> with <subject>
+is <subject> here a <title>
+is <subject> here a <title> in <technology>
+is <subject> good at coding here
+is there <subject> here familiar with <technology> i require assistance
+is <subject> here good with <technology>
+is there <subject> here who i can consult?
+is there <subject> here who i can consult with my questions please
+is there <subject> here who i can consult please
+is there <subject> here who has knowledge in <technology>
+is there <subject> here who has knowledge in creating software
+is there <subject> here who has knowledge in coding software
+is <subject> here experienced in <technology>
+is <subject> freelancer here
+Is there <subject here Who could help me with a code??? It’s a ”game” called space invaders, really need help!!
+Hi everyone, i really need help with an assignment, is there <subject> here who can help me
+is there <subject> who would be willing to answer me to few questions
+Is there <subject> here that are aware of places on the web that consolidates Cloud infrastructure knowledge
+is <subject> here great with <technology>
+is there <subject> here who uses <technology>
+is <subject> here proficient in <technology>
+is <subject here really good at <technology>
+<verb> <subject> please help me
+<verb> <subject> please aid me
+<verb> <subject> please assist me ?
+could <subject> please help me with this ?
+<verb> <subject> help please?
+guys i need a fast help pls , does <subject> of  u here know <subject> ?
+Does <subject> here know anything about dual-wielding graphics cards?
+Does <subject> here know anything about <technology>
+does <subject> here know how to implement in <technology>

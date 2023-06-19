@@ -62,16 +62,21 @@ unreal engine
 vue
 vuejs
 express
+freelance
 cyber security
 cybersec
 glsl
 python
 opengl
+operating systems
+systems
+networking
 vulkan
 graphics
 3d graphics
 html
 asm
+gui
 assembly
 scratch
 sql
@@ -97,7 +102,20 @@ hydrogen
 go
 tailwind
 bash
+web3
 webgl
 threejs
 graphql
 linux
+pc
+numpy
+pandas
+binary search
+microbit
+keras
+cuda
+cafe
+metal
+xcode
+ubuntu
+reversing

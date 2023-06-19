@@ -1,0 +1,25 @@
+specialist
+adept
+maestro
+master
+professional
+genius
+oracle
+pundit
+connoisseur
+wizard
+pro
+developer
+programmer
+coder
+engineer
+expert
+executive
+scholar
+pro
+consultant
+guru
+practitioner
+virtuoso
+maven
+software developer
