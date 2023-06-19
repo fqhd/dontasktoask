@@ -10,40 +10,34 @@ tf.loadLayersModel('./model/model.json', compile=false).then(m => {
     console.log(e);
 });
 
-const character_mappings = {
-    'a': [0, 0, 0, 0, 1],
-    'b': [0, 0, 0, 1, 0],
-    'c': [0, 0, 0, 1, 1],
-    'd': [0, 0, 1, 0, 0],
-    'e': [0, 0, 1, 0, 1],
-    'f': [0, 0, 1, 1, 0],
-    'g': [0, 0, 1, 1, 1],
-    'h': [0, 1, 0, 0, 0],
-    'i': [0, 1, 0, 0, 1],
-    'j': [0, 1, 0, 1, 0],
-    'k': [0, 1, 0, 1, 1],
-    'l': [0, 1, 1, 0, 0],
-    'm': [0, 1, 1, 0, 1],
-    'n': [0, 1, 1, 1, 0],
-    'o': [0, 1, 1, 1, 1],
-    'p': [1, 0, 0, 0, 0],
-    'q': [1, 0, 0, 0, 1],
-    'r': [1, 0, 0, 1, 0],
-    's': [1, 0, 0, 1, 1],
-    't': [1, 0, 1, 0, 0],
-    'u': [1, 0, 1, 0, 1],
-    'v': [1, 0, 1, 1, 0],
-    'w': [1, 0, 1, 1, 1],
-    'x': [1, 1, 0, 0, 0],
-    'y': [1, 1, 0, 0, 1],
-    'z': [1, 1, 0, 1, 0],
-    ' ': [1, 1, 0, 1, 1],
+function get_character_embeddings() {
+    const embeddings = [];
+    for(let i = 0; i < 128; i++) {
+        const curr = [];
+        for (let j = 0; j < 7; j++) {
+            curr.push(parseInt(i / Math.pow(2, j)) % 2);
+        }
+        embeddings.push(curr);
+    }
+    return embeddings;
 }
+
+const asciiChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ ';
+function get_character_mappings(){
+    const embeddings = get_character_embeddings();
+    const char_mappings = {};
+    for(let i = 0; i < asciiChars.length; i++) {
+        char_mappings[asciiChars[i]] = embeddings[i];
+    }
+    return char_mappings;
+}
+
+const character_mappings = get_character_mappings();
 
 function vectorize_message(msg) {
     const vec = []
     for(const c of msg){
-        if(vec.length == 250) {
+        if(vec.length == 7*50) {
             return vec;
         }
         const char_vector = character_mappings[c];
@@ -51,8 +45,10 @@ function vectorize_message(msg) {
             vec.push(...char_vector);
         }
     }
-    while(vec.length < 250) {
-        vec.push(0, 0, 0, 0, 0);
+    while(vec.length < 7*50) {
+        for(let i = 0; i < 7; i++) {
+            vec.push(Math.floor(Math.random() * 2));
+        }
     }
     return vec;
 }
